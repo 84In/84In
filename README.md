@@ -62,9 +62,6 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:trungtin7166293@gmail.com" target="_top">trungtin7166293@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-84In-scaled.jpeg" width="1200" alt="84In-official" />
-</a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
