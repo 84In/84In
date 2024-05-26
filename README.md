@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/n.trungtins/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="84In-facebook" />
   </a>
-  <a href="https://www.youtube.com/@84in69" target="blank">
+  <a href="https://www.youtube.com/@__trugtin2304" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="84In-youtube" />
   </a>
   <a href="https://www.instagram.com/n.trungtin2304/" target="blank">
