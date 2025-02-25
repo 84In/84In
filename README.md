@@ -40,7 +40,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/n.trungtins/" target="blank">
+  <a href="https://www.facebook.com/n.trungtin2304/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="84In-facebook" />
   </a>
   <a href="https://www.youtube.com/@__trugtin2304" target="blank">
@@ -60,7 +60,7 @@
 <br>
 <p>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/n.trungtins/" target="_blank">https://www.facebook.com/n.trungtins/</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/n.trungtin2304/" target="_blank">https://www.facebook.com/n.trungtin2304/</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:trungtin7166293@gmail.com" target="_top">trungtin7166293@gmail.com</a></strong>
 </p>
